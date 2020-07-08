@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id = "com.unifyed.UTAustin" version   = "7.0.0"
+        id = "com.kryptosmobile.UTADemo" version   = "7.0.0"
         ios-CFBundleVersion = "1.0.0">
         <name>MyUT Austin</name>
         <description>The University of Texas at Austin Demo Live mobile application</description>
