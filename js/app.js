@@ -135,7 +135,7 @@ document.addEventListener('deviceready', onDeviceReady, false);
 
 var MyCampusApp = {
     config: {
-        tenant: "utaustinnew",
+        tenant: "UTADemo",
         serverUrl: "https://kryptos.kryptosmobile.com",
         tenantFolder: function(device, tenant) {
             if (device.platform == 'Android') {
@@ -1074,7 +1074,7 @@ try {
              console.log("error");
            },
            {
-             id: "utaustinnew",
+             id: "UTADemo",
              description: "UTAustin Live push Channel",
              importance: 1,
              vibration: true,
