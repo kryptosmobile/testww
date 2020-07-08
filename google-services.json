@@ -474,7 +474,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:1012473507211:android:feca1a038e1079e124538e",
         "android_client_info": {
-          "package_name": "com.unifyed.UTAustin"
+          "package_name": "com.kryptosmobile.UTADemo"
         }
       },
       "oauth_client": [
@@ -503,7 +503,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:1012473507211:android:058fd0816f1203ec24538e",
         "android_client_info": {
-          "package_name": "com.unifyed.UTAustinDemo"
+          "package_name": "com.kryptosmobile.UTADemo"
         }
       },
       "oauth_client": [
